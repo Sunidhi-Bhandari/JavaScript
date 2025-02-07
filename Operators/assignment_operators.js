@@ -1,4 +1,4 @@
-//Assugnment Operators
+//Assignment Operators
 // 1. = --> equals to 
 // 2. += --> add and equals to
 // 3. -= --> sub and equala to
