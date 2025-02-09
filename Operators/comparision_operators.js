@@ -1,4 +1,4 @@
-// Comparision Opeartors
+// Comparison Opeartors
 // 1. == --> equal to
 // 2. != --> not equal to
 // 3. === --> equal to value and type
